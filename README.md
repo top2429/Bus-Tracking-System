@@ -46,15 +46,4 @@ To minimize the chances of missing a student
 
 - Gestures and Interactions: Flutter Maps supports various gestures and interactions, such as panning, zooming, rotation, and tilt. Users can interact with the map using touch gestures to explore and navigate the map view.
 
-
-## How to contribute ?
-> Star ⭐ and fork the repository... <br>
-> Clone the repository on your local machine... <br>
-```bash
-  git clone https://github.com/upes-open/Bus-Tracking-system.git
-```
-> Go to the project directory <br>
-> Get assigned yourself the issue you want to contribute.<br>
-> Start working on the assigned issue.<br>
-
 ### Contributions are always welcome!
