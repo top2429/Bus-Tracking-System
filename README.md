@@ -19,9 +19,6 @@ To minimize the chances of missing a student
 - [ ] Flutter
 - [ ] Firebase
 
-## Contributors
-<img src = "https://contrib.rocks/image?repo=upes-open/Bus-Tracking-system">
-
 ## Functionality
 ### Functionality of Flutter Firebase:
 
